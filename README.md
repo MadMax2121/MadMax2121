@@ -2,16 +2,8 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 
-
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=madmax2121&show_icons=true&locale=en" alt="madmax2121" />  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madmax2121&show_icons=true&locale=en&layout=compact" alt="madmax2121" /> </p>
-
-
-
-
-[go](http://stackoverflow.com){:target="_blank"}
 
 
 - 🔭 I’m currently working on [MaksArt](https://maksart2121.web.app/)
