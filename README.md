@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madmax2121&label=Profile%20views&color=0e75b6&style=flat" alt="madmax2121" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madmax2121" alt="madmax2121" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madmax2121" alt="madmax2121" /></a> </p>
 
 - 🔭 I’m currently working on [MaksArt](https://maksart2121.web.app/)
 
