@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **React, Javascript, Arduino**
 
-- 📫 How to reach me **mmoskalenko21@gmail.com**
+- 📫 How to reach me: **mmoskalenko21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
