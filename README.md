@@ -7,9 +7,9 @@
 
 
 
-<p align="left">&nbsp;<img src="https://komarev.com/ghpvc/?username=madmax2121&label=Profile%20views&color=0e75b6&style=flat" alt="madmax2121" /> </p>
+<p align="left">&nbsp;<img src="https://komarev.com/ghpvc/?username=madmax2121&label=Profile%20views&color=0e75b6&style=flat" alt="madmax2121" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=madmax2121&show_icons=true&locale=en" alt="madmax2121" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madmax2121&show_icons=true&locale=en" alt="madmax2121" /></p>
+<p>&nbsp;</p>
 
 <p align="center">&nbsp;<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madmax2121" alt="madmax2121" /></a> </p>
 
