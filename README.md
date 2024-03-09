@@ -1,19 +1,12 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madmax2121&show_icons=true&locale=en&layout=compact" alt="madmax2121" /></p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madmax2121&show_icons=true&locale=en&layout=compact" alt="madmax2121" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madmax2121&show_icons=true&locale=en" alt="madmax2121" /></p>
 
-
-<p align="left">&nbsp;<img src="https://komarev.com/ghpvc/?username=madmax2121&label=Profile%20views&color=0e75b6&style=flat" alt="madmax2121" /><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madmax2121" alt="madmax2121" /></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=madmax2121&show_icons=true&locale=en" alt="madmax2121" />
-</p>
-
-<p>&nbsp;</p>
-
-<p align="center">&nbsp; </p>
 
 
 - 🔭 I’m currently working on [MaksArt](https://maksart2121.web.app/)
