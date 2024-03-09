@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI, Stock Market**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://about-me-gamma-ten.vercel.app/)
+- 👨‍💻 All of my projects are available on [My Portfolio](https://about-me-gamma-ten.vercel.app/)
 
 - 💬 Ask me about **React, Javascript, Arduino**
 
