@@ -93,8 +93,9 @@
 
   <!-- AWS -->
 <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/376356/aws.svg" width="40" height="40"/>
 </a>
+
 
 
 </p>
