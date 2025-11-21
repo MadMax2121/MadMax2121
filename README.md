@@ -82,8 +82,8 @@
   </a>
 
   <!-- Tailwind -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="40" height="40"/>
   </a>
 
   <!-- Git -->
@@ -92,8 +92,8 @@
   </a>
 
   <!-- AWS -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://www.svgrepo.com/show/448226/aws.svg" width="40" height="40"/>
   </a>
 
 </p>
