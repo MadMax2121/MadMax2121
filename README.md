@@ -2,8 +2,10 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 
-<p><img align="center" src="https://github-readme-stats-gamma-three-50.vercel.app/api?username=madmax2121&show_icons=true&locale=en" alt="madmax2121" />  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madmax2121&show_icons=true&locale=en&layout=compact" alt="madmax2121" /> </p>
+<p align="center">
+  <img height="200" src="https://github-readme-stats-gamma-three-50.vercel.app/api?username=madmax2121&show_icons=true&locale=en" alt="Max's GitHub stats" />
+  <img height="200" src="https://github-readme-stats-gamma-three-50.vercel.app/api/top-langs/?username=madmax2121&layout=compact&langs_count=8" alt="Top languages" />
+</p>
 
 
 - 🔭 I’m currently working on [MaksArt](https://maksart2121.web.app/)
