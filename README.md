@@ -8,13 +8,13 @@
 </p>
 
 
-- 🔭 I’m currently working on [MaksArt](https://maksart2121.web.app/)
+- 🔭 I’m currently working on [State Affairs ](https://stateaffairs.com/)
 
 - 🌱 I’m currently learning **AI, Stock Market**
 
 - 👨‍💻 All of my projects are available on [My Portfolio](https://about-me-gamma-ten.vercel.app/)
 
-- 💬 Ask me about **React, Javascript, Arduino**
+- 💬 Ask me about **React, Typescript, Prisma**
 
 - 📫 How to reach me: **mmoskalenko21@gmail.com**
 
