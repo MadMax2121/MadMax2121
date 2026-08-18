@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img height="200" src="https://github-readme-stats-gamma-three-50.vercel.app/api?username=madmax2121&show_icons=true&locale=en" />
   <img height="200" src="https://github-readme-stats-gamma-three-50.vercel.app/api/top-langs/?username=madmax2121&layout=compact&langs_count=8" />
-</p> 
+</p>  -->
 
 <ul>
   <li>🔭 I’m currently working on <a href="https://stateaffairs.com/" target="_blank" rel="noreferrer">State Affairs</a></li>
